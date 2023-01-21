@@ -1,0 +1,30 @@
+body{
+	background-color: lightyellow;
+	padding: 20px;
+}
+h1{
+	text-align: center;
+}
+p{
+	font-family: sans-serif;
+	font-size: 16px;
+}
+#para1{
+	color:red;
+}
+h3.styleh3,h4.styleh4,p.stylep1{
+	text-align: center;
+	color: red;
+}
+div.first{
+	background-color: green;
+	opacity: .3;
+}
+div.second{
+	background-color: green;
+	opacity: .5;
+}
+div.third{
+	background-color: green;
+	opacity: .7;
+}
